@@ -20,6 +20,7 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
  - [Zero-shot Learning](https://github.com/zhjohnchan/awesome-zero-shot-learning-in-nlp)
  - [Multi-task Learning](https://github.com/zhjohnchan/awesome-multi-task-learning-in-nlp)
  - [Contrastive Learning](https://github.com/zhjohnchan/awesome-contrastive-learning-in-nlp)
+ - [Adversarial Attack and Defense](https://github.com/zhjohnchan/awesome-adversarial-attack-and-defense-in-nlp)
  
 
 ## Licenses
