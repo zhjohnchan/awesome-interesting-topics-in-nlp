@@ -45,13 +45,13 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 [NLP](https://github.com/zhjohnchan/awesome-few-shot-learning-in-nlp),
 [ML](https://github.com/Duan-JM/awesome-papers-fewshot),
 [ML](https://github.com/floodsung/Meta-Learning-Papers).
+ - [Zero-shot Learning](https://github.com/zhjohnchan/awesome-zero-shot-learning-in-nlp):
+[NLP](https://github.com/zhjohnchan/awesome-zero-shot-learning-in-nlp),
+[CV](https://github.com/sbharadwajj/awesome-zero-shot-learning).
  - [Attack and Defense](https://github.com/zhjohnchan/awesome-adversarial-attack-and-defense-in-nlp):
 [NLP](https://github.com/zhjohnchan/awesome-adversarial-attack-and-defense-in-nlp),
 [ML](https://github.com/nebula-beta/awesome-adversarial-deep-learning),
 [ML](https://github.com/stratosphereips/awesome-ml-privacy-attacks).
- - [Zero-shot Learning](https://github.com/zhjohnchan/awesome-zero-shot-learning-in-nlp):
-[NLP](https://github.com/zhjohnchan/awesome-zero-shot-learning-in-nlp),
-[CV](https://github.com/sbharadwajj/awesome-zero-shot-learning).
  - [Multi-task Learning](https://github.com/zhjohnchan/awesome-multi-task-learning-in-nlp):
 [NLP](https://github.com/zhjohnchan/awesome-multi-task-learning-in-nlp),
 [CV](https://github.com/SimonVandenhende/Awesome-Multi-Task-Learning).
